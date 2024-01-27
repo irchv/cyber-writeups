@@ -27,7 +27,7 @@
 ##### *Answer* - http:[//]10.10.0.78 [/] update.php 
 
 ##### After analyzing the phbb_posts table we can spot a snippet in the post-text column which looks like HTML code. After further look up we can find the link 
-image](https://github.com/irchv/cyber-writeups/assets/100216301/dbe810fc-794d-4071-835f-f017c09640fc)
+![image](https://github.com/irchv/cyber-writeups/assets/100216301/dbe810fc-794d-4071-835f-f017c09640fc)
 
 
 
